@@ -1,0 +1,16 @@
+[
+    {
+        "id" : "1",
+        "titulo" : "aliens",
+        "director" : "James Carmeron",
+        "year" : "1986",
+        "rating" : "8.5"
+    },
+    {
+        "id" : "2",
+        "titulo" : "The Dark Knight",
+        "director" : "Cristophher Nolan",
+        "year" : "2008",
+        "rating" : "10"
+    }
+]
